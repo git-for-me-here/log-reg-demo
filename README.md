@@ -1,6 +1,6 @@
 # Log-Reg-Demo
 
-http://novickiy.comxa.com/demo
+http://novickiy.netai.net/demo
 
 Модуль авторизации и регистрации пользователей, реализованный при помощи HTML, PHP, MySQL.
 Для отправки данных на сервер используется AJAX с предварительной проверкой полей на jQuery.
